@@ -46,8 +46,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kanishkazoysa" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kanishkazoysa" height="50" width="50" /></a>
-<a href="https://fb.com/kanishka zoysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanishka zoysa" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/kanishka-zoysa-2279422a7/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kanishkazoysa" height="50" width="50" /></a>
+<a href="https://www.facebook.com/kanishka.lakshan.9237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanishka zoysa" height="50" width="50" /></a>
 </p>
 
 ---
