@@ -7,13 +7,10 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Mobile Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
-- 💬 Ask me about **React & ReactNative**
 
-- 📫 How to reach me **kanishkazoysa31@gmail.com**
 
 </td>
 <td width="50%" align="center">
