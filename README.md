@@ -5,7 +5,7 @@
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Flutter+%7C+React+%7C+FastAPI+%7C+Laravel;Shipping+production+apps+to+real+users;B.Sc.+(Hons)+IT+-+University+of+Moratuwa;Ship+it%2C+measure+it%2C+make+it+better" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Flutter+%7C+React+%7C+FastAPI+%7C+Laravel;Shipping+production+apps+to+real+users;B.Sc.+(Hons)+IT+-+University+of+Moratuwa;Ship+it%2C+measure+it%2C+make+it+better" alt="typing"/>
 </p>
 
 <!-- ==================== BADGES ==================== -->
@@ -19,19 +19,18 @@
 <br>
 
 <!-- ==================== ABOUT ==================== -->
-<img align="right" width="400" src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/terminal.svg" alt="developer terminal"/>
-
 ## 👨‍💻 &nbsp;About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/terminal.svg" alt="developer terminal"/>
 
 ```typescript
 const kanishka = {
-  role: "Software Engineer @ Avya Technologies",
-  education: "B.Sc. (Hons) IT — University of Moratuwa",
+  role: "Software Engineer @ Avya",
+  education: "B.Sc. (Hons) IT, Moratuwa",
   location: "Balapitiya, Sri Lanka",
-  experience: "2+ years commercial & freelance",
-  focus: ["Flutter", "React / Next.js", "FastAPI", "Laravel"],
-  currently: "Building AI-driven precision agriculture with YOLOv8",
-  motto: "Ship it, measure it, make it better."
+  experience: "2+ years",
+  stack: ["Flutter", "React", "FastAPI"],
+  motto: "Ship it, measure it, improve it"
 };
 ```
 
