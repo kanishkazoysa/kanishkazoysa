@@ -1,11 +1,11 @@
 <!-- ==================== ANIMATED HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=200&section=header&text=Kanishka%20Zoysa&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Mobile&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/banner.svg" width="100%" alt="Kanishka Zoysa — Software Engineer"/>
 </p>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Flutter+%7C+React+%7C+FastAPI;Shipping+production+apps+to+the+App+Store+%26+Play+Store;B.Sc.+(Hons)+IT+%E2%80%94+University+of+Moratuwa;Turning+tea+into+scalable+systems+%F0%9F%8D%83" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Flutter+%7C+React+%7C+FastAPI+%7C+Laravel;Shipping+production+apps+to+real+users;B.Sc.+(Hons)+IT+-+University+of+Moratuwa;Ship+it%2C+measure+it%2C+make+it+better" alt="typing"/>
 </p>
 
 <!-- ==================== BADGES ==================== -->
@@ -19,7 +19,7 @@
 <br>
 
 <!-- ==================== ABOUT ==================== -->
-<img align="right" width="340" src="https://cdn.jsdelivr.net/gh/MartinHeinz/MartinHeinz/wave.gif" alt="dev gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/terminal.svg" alt="developer terminal"/>
 
 ## 👨‍💻 &nbsp;About Me
 
@@ -218,5 +218,5 @@ Forecasting application predicting regional tea yields from historical and envir
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2c5364,100:0f2027&height=140&section=footer" width="100%" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/footer.svg" width="100%" alt="footer"/>
 </p>
