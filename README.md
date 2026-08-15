@@ -1,135 +1,216 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ==================== ANIMATED HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=180&section=header&text=Kanishka%20Zoysa&fontColor=ffffff&fontSize=48&fontAlignY=32&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=200&section=header&text=Kanishka%20Zoysa&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Mobile&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
-<!-- ===================== TYPING INTRO ===================== -->
+<!-- ==================== TYPING ANIMATION ==================== -->
 <p align="center">
-  <a href="https://github.com/kanishkazoysa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+in+the+making;MERN+%7C+Java+%7C+Mobile+Development;Always+learning%2C+always+building" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Flutter+%7C+React+%7C+FastAPI;Shipping+production+apps+to+the+App+Store+%26+Play+Store;B.Sc.+(Hons)+IT+%E2%80%94+University+of+Moratuwa;Turning+tea+into+scalable+systems+%F0%9F%8D%83" alt="typing"/>
 </p>
 
-<!-- ===================== BADGES ===================== -->
+<!-- ==================== BADGES ==================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishkazoysa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/kanishkazoysa?tab=followers">
-    <img src="https://img.shields.io/github/followers/kanishkazoysa?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1c1c1c" alt="followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/kanishka-zoysa-2279422a7/">
-    <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge&labelColor=1c1c1c" alt="open to work" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kanishkazoysa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+  <a href="https://github.com/kanishkazoysa?tab=followers"><img src="https://img.shields.io/github/followers/kanishkazoysa?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" alt="followers"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-2ea44f?style=for-the-badge&labelColor=0d1117" alt="location"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="open to work"/>
 </p>
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;About Me
+<!-- ==================== ABOUT ==================== -->
+<img align="right" width="340" src="https://cdn.jsdelivr.net/gh/MartinHeinz/MartinHeinz/wave.gif" alt="dev gif"/>
 
-<img align="right" width="380" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="coding illustration" />
+## 👨‍💻 &nbsp;About Me
 
-```yaml
-name: Kanishka Zoysa
-located_in: Balapitiya, Galle, Sri Lanka
-education: BSc (Hons) in Information Technology
-university: University of Moratuwa
-current_focus:
-  - MERN stack development
-  - Mobile app development
-  - Clean architecture & UI/UX
-fun_fact: "I debug faster with a cup of tea ☕"
+```typescript
+const kanishka = {
+  role: "Software Engineer @ Avya Technologies",
+  education: "B.Sc. (Hons) IT — University of Moratuwa",
+  location: "Balapitiya, Sri Lanka",
+  experience: "2+ years commercial & freelance",
+  focus: ["Flutter", "React / Next.js", "FastAPI", "Laravel"],
+  currently: "Building AI-driven precision agriculture with YOLOv8",
+  motto: "Ship it, measure it, make it better."
+};
 ```
 
-- 🎓 &nbsp;Undergraduate at the **University of Moratuwa**
-- 🌱 &nbsp;Currently deepening my skills in **React, Node.js & TypeScript**
-- 💡 &nbsp;I enjoy turning ideas into **clean, usable products**
-- ✍️ &nbsp;I write about what I learn on [**Medium**](https://medium.com/@kanishkazoysa1234)
-- 💬 &nbsp;Ask me about **JavaScript, Java, Databases & Web Development**
-- 📫 &nbsp;Reach me at **your.email@example.com**
+- 🚀 &nbsp;Building **production mobile & web apps** used by real customers across Sri Lanka
+- 📱 &nbsp;Shipped Flutter apps end-to-end to the **Apple App Store** & **Google Play Store**
+- 🧠 &nbsp;Final-year research: **AI precision agriculture** — YOLOv8 segmentation + AR yield estimation
+- 🐧 &nbsp;Full **Linux** workflow · Docker · GitHub Actions CI/CD · AWS Lightsail
+- 📦 &nbsp;Published an **open-source npm chatbot package** for React, Next.js, Nuxt & Vue
+- ✍️ &nbsp;I write on [**Medium**](https://medium.com/@kanishkazoysa1234)
 
 <br clear="right"/>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ &nbsp;Tech Stack
+<!-- ==================== TECH STACK ==================== -->
+## ⚡ &nbsp;Tech Stack
 
-<table align="center">
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=dart,py,js,ts,php,java,c&theme=dark" height="48"/>
+
+**Mobile & Frontend**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,nuxtjs,tailwind,html,css&theme=dark" height="48"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,laravel,wordpress&theme=dark" height="48"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" height="48"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git,github&theme=dark" height="48"/>
+
+**AI / ML & Tools**
+
+<img src="https://skillicons.dev/icons?i=pytorch,gcp,figma,postman,vscode,idea&theme=dark" height="48"/>
+
+</div>
+
+---
+
+<!-- ==================== EXPERIENCE ==================== -->
+## 💼 &nbsp;Experience
+
+<table>
   <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,dart&theme=dark" alt="languages" />
+    <td width="22%" align="center"><b>Aug 2025 –<br>Aug 2026</b></td>
+    <td width="78%">
+      <b>Associate Software Engineer</b> · <i>Avya Technologies (Pvt) Ltd</i><br>
+      Flutter mobile features (real-time step tracking, FCM push, background/foreground tasks), FastAPI services, Laravel CMS, React & Nuxt front ends, and App Store / Play Store release management.
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma&theme=dark" alt="frontend" />
+    <td align="center"><b>Feb 2025 –<br>Aug 2025</b></td>
+    <td>
+      <b>Software Engineer Intern</b> · <i>Avya Technologies (Pvt) Ltd</i><br>
+      Converted a legacy land-management system into a cross-platform Flutter app with Google Maps / GCP area measurement. Migrated an existing Node.js backend to FastAPI.
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="databases" />
-      <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40" alt="mssql" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,linux,idea&theme=dark" alt="tools" />
+    <td align="center"><b>2024 –<br>Present</b></td>
+    <td>
+      <b>Freelance Full-Stack Developer</b> · <i>Self-Employed</i><br>
+      Co-led a 3-person agile team delivering MERN platforms with local & international payment gateways, plus high-traffic WordPress e-commerce builds.
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ===================== STATS ===================== -->
-## 📊 &nbsp;GitHub Statistics
+<!-- ==================== PROJECTS ==================== -->
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 AI Precision Agriculture
+`Flutter` `YOLOv8` `PyTorch` `FastAPI` `AR`
+
+Final-year research leading a 3-member team. Three AI models for **yield prediction, disease detection & quality grading**. Built the AR module that computes real ground area per photo so sample images scale to full-field yield.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ FieldMaster
+`React Native` `Expo` `Node.js` `MongoDB`
+
+Team lead on a cross-platform land-management platform. **Live walking-path tracking** draws your route along a boundary in real time and calculates the enclosed area on close.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Ordly — Multi-Branch POS
+`React` `Node.js` `SQL`
+
+Configurable POS for retail & restaurants: counter checkout, inventory, order tracking, multi-branch ops and role-based access. **Live with paying clients.**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤿 southerndivers.lk
+`React` `Node.js` `SQL`
+
+Full-stack booking & payment platform for a diving tourism business, with secure local and international payment gateway processing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👕 3D T-Shirt Customizer
+`React` `Three.js` `OpenAI API`
+
+Real-time garment customization engine with Three.js rendering and AI-generated design artwork.
+
+</td>
+<td width="50%" valign="top">
+
+### 🍃 LankaTea Yield Forecast
+`Python` `Machine Learning` `Analytics`
+
+Forecasting application predicting regional tea yields from historical and environmental data.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanishkazoysa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6&icon_color=6a11cb" alt="github stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkazoysa&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6" alt="top languages" />
+  <a href="https://github.com/kanishkazoysa?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="all repos"/>
+  </a>
 </p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=kanishkazoysa&hide_border=true&theme=tokyonight&background=0D1117&ring=0e75b6&fire=6a11cb&currStreakLabel=0e75b6" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=kanishkazoysa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</p>
-
-<details>
-  <summary><b>📈 &nbsp;Contribution Activity Graph</b></summary>
-  <br>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkazoysa&bg_color=0D1117&color=0e75b6&line=6a11cb&point=ffffff&hide_border=true" alt="activity graph" />
-</details>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 &nbsp;Let's Connect
+<!-- ==================== STATS ==================== -->
+## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kanishka-zoysa-2279422a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://medium.com/@kanishkazoysa1234" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
-  </a>
-  <a href="https://www.facebook.com/kanishka.lakshan.9237" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanishkazoysa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6&icon_color=58a6ff" alt="stats"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkazoysa&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6" alt="langs"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=kanishkazoysa&hide_border=true&theme=tokyonight&background=0D1117&ring=0e75b6&fire=58a6ff&currStreakLabel=0e75b6" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=kanishkazoysa&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkazoysa&bg_color=0D1117&color=58a6ff&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</p>
+
+<!-- ==================== SNAKE ANIMATION ==================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/output/snake.svg" alt="contribution snake"/>
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+## 🤝 &nbsp;Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanishka-zoysa-2279422a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:kanishkazoysa31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://medium.com/@kanishkazoysa1234"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
+  <a href="https://www.facebook.com/kanishka.lakshan.9237"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 </p>
 
 <p align="center">
@@ -137,5 +218,5 @@ fun_fact: "I debug faster with a cup of tea ☕"
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2c5364,100:0f2027&height=140&section=footer" width="100%" alt="footer"/>
 </p>
