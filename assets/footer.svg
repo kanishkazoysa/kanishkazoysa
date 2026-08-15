@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="f1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="50%" stop-color="#2c5364"/>
+      <stop offset="100%" stop-color="#0f2027"/>
+    </linearGradient>
+    <linearGradient id="f2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave -->
+  <path fill="url(#f2)" opacity="0.35"
+        d="M0,60 C150,10 350,110 500,60 C650,10 850,110 1000,60 L1000,130 L0,130 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,60 C150,10 350,110 500,60 C650,10 850,110 1000,60 L1000,130 L0,130 Z;
+              M0,60 C150,110 350,10 500,60 C650,110 850,10 1000,60 L1000,130 L0,130 Z;
+              M0,60 C150,10 350,110 500,60 C650,10 850,110 1000,60 L1000,130 L0,130 Z"/>
+  </path>
+
+  <!-- front wave -->
+  <path fill="url(#f1)"
+        d="M0,80 C160,40 340,120 500,80 C660,40 840,120 1000,80 L1000,130 L0,130 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,80 C160,40 340,120 500,80 C660,40 840,120 1000,80 L1000,130 L0,130 Z;
+              M0,80 C160,120 340,40 500,80 C660,120 840,40 1000,80 L1000,130 L0,130 Z;
+              M0,80 C160,40 340,120 500,80 C660,40 840,120 1000,80 L1000,130 L0,130 Z"/>
+  </path>
+
+  <text x="500" y="118" text-anchor="middle"
+        font-family="'JetBrains Mono', Consolas, monospace" font-size="12"
+        fill="#c9d7e4" opacity="0.85">Thanks for visiting</text>
+</svg>
