@@ -179,8 +179,8 @@ Forecasting application predicting regional tea yields from historical and envir
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanishkazoysa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6&icon_color=58a6ff" alt="stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkazoysa&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6" alt="langs"/>
+  <img width="49%" src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/metrics-overview.svg" alt="overview"/>
+  <img width="49%" src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/metrics-languages.svg" alt="languages"/>
 </p>
 
 <p align="center">
@@ -188,11 +188,7 @@ Forecasting application predicting regional tea yields from historical and envir
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=kanishkazoysa&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkazoysa&bg_color=0D1117&color=58a6ff&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  <img width="70%" src="https://raw.githubusercontent.com/kanishkazoysa/kanishkazoysa/main/assets/metrics-calendar.svg" alt="contribution calendar"/>
 </p>
 
 <!-- ==================== SNAKE ANIMATION ==================== -->
